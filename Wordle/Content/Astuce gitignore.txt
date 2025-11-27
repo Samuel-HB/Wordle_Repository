@@ -1,0 +1,1 @@
+soit le gitignore on le met dans le projet unity, soit on enlève les slashs du début (pour avoir un bon gitignore)
